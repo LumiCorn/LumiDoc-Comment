@@ -1,0 +1,2 @@
+# LumiDoc-Comment
+这是一个专门用来给LumiDoc的评论模块（这样可以使得LumiDoc本身的Issue不会被评论区污染）
